@@ -7,6 +7,12 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
+
+/**
+* editing and adding by @develop_user1
+hello 
+
+*/
 public class AppTest 
 {
     /**
@@ -16,5 +22,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+	System.out.println("hello Develop_user1");
     }
 }
